@@ -10,7 +10,7 @@ Clone repository
 
 
 
-## Usage
+## nura.xanm12
 
 ```python3 snapchat_checker.py [-h] -l filepath [-p proxies_path] [-t threads]```
 
@@ -40,3 +40,4 @@ Example output:
 - Currently, the script only shows if the phone number is linked to an account ("taken") or not ("available"). It DOES NOT show the username of a linked account. So far there seems no way to add this into the code. The only way this would be possible is by grabbing the linked phone numbers, adding them to a phone's contact and checking SnapChat's add contacts tab. 
 
 <sub><sup><sub>**DISCLAIMER**: This code was created for educational purposes ONLY. Only use the code on targets who have given permission. The author is not responsible for any malicious use. </sub></sup></sub>
+
